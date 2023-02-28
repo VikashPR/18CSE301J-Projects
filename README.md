@@ -9,7 +9,7 @@
 | 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link]() | 1 | |
 | 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link]() | 1 | |
 | 8 |	SHIVAM SINGH (RA2011003010087) | [Link]() | 1 | |
-| 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
+| 9 |	SREEKANT R NAIR (RA2011003010096) | [Link](https://github.com/SreekantNair10/18CSE301J_RA2011003010096) | 1 |``` :white_check_mark: ``` |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
 | 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link]() | 1 | |
