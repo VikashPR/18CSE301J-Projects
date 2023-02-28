@@ -75,7 +75,7 @@
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
-| 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
+| 75 |	Priyanshu Jha (RA2011003011071) | [Link](https://mepriyanshuu.github.io/18CSE301J-RA2011003011071.github.io/) | 2 | |
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link]() | 2 | |
 | 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
 | 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link]() | 2 | |
