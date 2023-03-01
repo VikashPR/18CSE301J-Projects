@@ -59,7 +59,7 @@
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link](https://saumyasah.github.io/18CSE301J_RA2011032010013/) | 1 |:white_check_mark: |
 | 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
-| 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
+| 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link](https://penspencil.github.io/18CSE301J_RA2011033010026/) | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
 | 61 |  Vikram Saurav (RA2011003010714) | [Link](https://vikku911.github.io/18CSC301J_RA2011003010714/) | 2 |:white_check_mark:  |
 | 62 |	SUBRAMANIAN R (RA2011003010727) | [Link](https://sites.google.com/srmist.edu.in/subramanian727/home) | 2 |:white_check_mark: |
